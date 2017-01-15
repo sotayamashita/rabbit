@@ -1,0 +1,17 @@
+{
+  "name": "rabbit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "rabbit": "./bin/cmd.js"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "beta"
+  }
+}
